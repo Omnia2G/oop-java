@@ -81,6 +81,8 @@ public class Main {
         contractView.printContractDetails(contract1);
 
 
+        System.out.println("hülye vagyok");
+
     }
 }
 
